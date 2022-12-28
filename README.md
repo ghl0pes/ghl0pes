@@ -45,4 +45,5 @@ I currently work as a junior developer at <a href="https://github.com/qyon-brazi
 <a href="https://github.com.br/ghl0pes">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ghl0pes&theme=vision-friendly-dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ghl0pes&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghl0pes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
