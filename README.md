@@ -17,7 +17,7 @@ My name is Gabriel Lopes. I'm 21 years old and I've been studying programming si
 
 I started in this universe studying C language, but I deepened my learning in developing web systems with a fullstack focus.
 
-I currently work as a junior developer at <a href="https://qyon.com/" target="_blank">Qyon</a> (since 2022 february), where I am responsible for creating routines and implementing business rules in ERP system.
+I currently work as a junior developer at <a href="https://qyon.com/" target="_blank" >Qyon</a> (since 2022 february), where I am responsible for creating routines and implementing business rules in ERP system.
 
 
 ### Detailed information
