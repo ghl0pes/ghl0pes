@@ -10,30 +10,30 @@
   </a>
 </div>
 
-### Welcome to my profile, feel free! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Welcome to my profile, feel free! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-## Public information
+### Public information
 My name is Gabriel Lopes. I'm 21 years old and I've been studying programming since 2019 when I started graduating in Computer Science.
 
 I started in this universe studying C language, but I deepened my learning in developing web systems with a fullstack focus.
 
-I currently work as a junior developer at <a href="https://github.com/qyon-brazil">Qyon</a> (since 2022 february), where I am responsible for creating routines and implementing business rules for issuing invoices in ERP.
+I currently work as a junior developer at <a href="https://github.com/qyon-brazil">Qyon</a> (since 2022 february), where I am responsible for creating routines and implementing business rules in ERP system.
 
 
-## Detailed information
+### Detailed information
 
 * **Name**: Gabriel Henrique Ferreira Lopes
 * **Age**: 21
 * **Living in**: Americana - São Paulo, Brazil
-* **Stack**: Laravel - ReactJs - PHP - PgSQL
+* **Stack**: Laravel • NodeJS • ReactJs • PHP • PgSQL
 * **University**: System Analysis and Development. Computer Science (not finished)
 
-## Technologies and tools
+### Technologies and tools
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60" height="60"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zend/zend-plain.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
