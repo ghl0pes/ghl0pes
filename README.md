@@ -13,7 +13,7 @@
 ## Welcome to my profile, feel free! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ### Public information
-My name is Gabriel Lopes. I'm 21 years old and I've been studying programming since 2019 when I started graduating in Computer Science.
+My name is Gabriel Lopes. I'm 22 years old and I've been studying programming since 2019 when I started graduating in Computer Science.
 
 I started in this universe studying C language, but I deepened my learning in developing web systems with a fullstack focus.
 
@@ -23,9 +23,9 @@ I currently work as a junior developer at <a href="https://qyon.com/" target="_b
 ### Detailed information
 
 * **Name**: Gabriel Henrique Ferreira Lopes
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Americana - São Paulo, Brazil
-* **Stack**: Laravel • NodeJS • ReactJs • PHP • PgSQL
+* **Stack**: NodeJS • Laravel • ReactJs • PHP • PgSQL
 * **University**: System Analysis and Development. Computer Science (not finished)
 
 ### Technologies and tools
